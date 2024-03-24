@@ -2,7 +2,7 @@
  
 > A clean, beautiful, responsive portfolio template for Software Developers!
 
-To view a live example, [click here]()
+To view a live example, [click here](https://pavanpraneeth7.github.io/Bharath-intern--Personal-Portfolio/)
 
 
 ## Features 📋
